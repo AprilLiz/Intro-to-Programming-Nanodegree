@@ -1,0 +1,30 @@
+span {font-weight:bold;}
+ul {list-style:none; padding-left: 0;}
+h3 {margin: 14px;}
+
+.small-box{
+  width:280px;
+  height:290px;
+  border:1px solid lightgrey;
+  margin-left:14px;
+  padding-bottom:10px; padding-left:10px; padding-right:10px;
+  font: 10pt Times, sans-serif;
+  text-align:justify;
+}
+
+.big-box{
+  width:330px;
+  height:555px;
+  border:1px solid lightgrey;
+  box-shadow:5px 5px #eee;
+  position: fixed;
+  top:10%;
+  left:50%;
+  margin-top:-50px;
+  margin-left:-100px;
+}
+
+.pic-box{
+  width:300px;
+  margin:15px;
+}
